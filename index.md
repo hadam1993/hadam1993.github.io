@@ -1,4 +1,4 @@
-## Adam Honts Blog
+## Adam Honts Projects and Tutorials
 
 ### Green Index Project
 
