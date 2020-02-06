@@ -9,4 +9,4 @@ During the summer of 2017 I worked with Dr. Istvan Lauko and Jacob Beihoff on a 
 
 ### Tutorial On How To Use Pytorch For Recognizing Handwritten Digits
 
-The Tutorial located in the repository https://github.com/hadam1993/MNIST_Tutorial was created to help others who are learning how to create Neural Networks using Pytorch. There is an emphasis on using your own data in this tutorial. The same methods to load your data into Pytorch can be reused for any image data that you want to use for your future projects involving Neural Networks. 
+The Tutorial located in my repository [MNIST_Tutorial](https://github.com/hadam1993/MNIST_Tutorial) was created to help others who are learning how to create Neural Networks using Pytorch. There is an emphasis on using your own data in this tutorial. The same methods to load your data into Pytorch can be reused for any image data that you want to use for your future projects involving Neural Networks. 
