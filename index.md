@@ -15,3 +15,7 @@ The Tutorial located in my repository [MNIST_Tutorial](https://github.com/hadam1
 ### NLP Projects
 
 I am currently in a class for my Industrial Mathematics Degree which is focused on projects using Deep Learning. My group is focused on deep learning projects for Natural Language Processing. For example our first project was doing sentiment analysis using DistilBERT for it's classification encoding and then passing that encoding into a Shallow Neural Network to predict the movie review's sentiment (Negative or Positive). The projects code can be found on my repository [Industrial Math](https://github.com/hadam1993/Industrial_Math)
+
+### Climate Change Competition
+
+I am part of a Climate Change Competition with a group of 2 other graduate students, Joe Paulson and Andrew Wheaton, and a friend Scott Ruprecht, where we are creating a web visualization tool for climate data in North America. We are using Functional Data Analysis to cluster daily data collected from Jan 1st 1970 to Dec 31st 2017, that has the variables Min Temp, Max Temp, and amount of precipation. Results can be found at this [website](https://adamhonts.z14.web.core.windows.net/)
